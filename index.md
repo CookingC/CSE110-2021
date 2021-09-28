@@ -26,4 +26,3 @@
 - [ ] CSE101
 - [ ] CSE105
 - [ ] Math154
-- [ ] LeetCode!!
